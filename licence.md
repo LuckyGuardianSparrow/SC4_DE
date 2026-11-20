@@ -1,0 +1,1035 @@
+ELECTRONIC ARTS  
+SOFTWARE END USER LICENSE AGREEMENT
+
+This End User License Agreement (oLicenseo) is an agreement between you and
+Electronic Arts Inc., its subsidiaries and affiliates (oEAo). This License
+governs your use of this software product and all related documentation, and
+updates and upgrades that replace or supplement the software in any respect
+and which are not distributed with a separate license (collectively, the
+"Software"). This Software is licensed to you, not sold.
+
+By installing or using the Software, you agree to the terms of this License
+and agree to be bound by it. Section 3 below describes the data EA may use to
+provide services and support to you in connection with the Software. If you do
+not agree to this use of data, do not install or use the Software. IF YOU
+INSTALL THE SOFTWARE, THE TERMS AND CONDITIONS OF THIS LICENSE ARE FULLY
+ACCEPTED BY YOU. If you do not agree to the terms of this License, then do not
+install or use the Software.
+
+1\. Limited License Grant and Terms of Use.
+
+A. Grant. Through this purchase, you are acquiring and EA grants you a
+personal, limited, non-exclusive license to install and use the Software for
+your non-commercial use solely as set forth in this License and the
+accompanying documentation. Your acquired rights are subject to your
+compliance with this Agreement. Any commercial use is prohibited. You are
+expressly prohibited from sub-licensing, renting, leasing or otherwise
+distributing the Software or rights to use the Software. The term of your
+License shall commence on the date that you install or otherwise use the
+Software, and shall end on the earlier of the date that you dispose of or
+transfer the Software; or EA's termination of this License. Your license will
+terminate immediately if you attempt to circumvent the technical protection
+measures for the Software. A separate Terms of Service agreement governs your
+use of online services in connection with the Software. You may view the Terms
+of Service agreement at http://terms.ea.com.
+
+B. Access to Software, Online Features And/Or Services. An EA/Origin Account,
+including the acceptance of EAls online Terms of Service and Privacy Policy
+(available at www.ea.com), the installation of Origin client application
+(www.origin/about.com) (or superceding download management software) as well
+as acceptance of the Origin (or superceding download management software) End
+User License Agreement, may be required to access the Software, online
+services and/or features and to download and apply Software updates and
+patches (if any). Only licensed software can be used to access online services
+and/or features (if any), including downloadable content, and access to such
+features is limited to you and your immediately family or members of your
+household.
+
+C. Further Restrictions. Your right to use the Software is limited to the
+license grant above, and you may not otherwise copy, display, seek to disable,
+distribute, perform, publish, modify, create works from, or use the Software
+or any component of it, except as expressly authorized by EA. Unless expressly
+authorized by EA, you are prohibited from making a copy of the Software
+available on a network where it could be used by multiple users. You are
+prohibited from making the Software available over a network where it could be
+downloaded by multiple users. You may not remove or alter EAls trademarks or
+logos, or legal notices included in the Software or related assets.
+
+D. Reservation of Rights. You have obtained a license to the Software and your
+rights are subject to this License. Except as expressly licensed to you
+herein, EA reserves all right, title and interest in the Software (including
+all characters, storyline, images, photographs, animations, video, music,
+text), and all associated copyrights, trademarks, and other intellectual
+property rights therein. This License is limited to the intellectual property
+rights of EA and its licensors in the Software and does not include any rights
+to other patents or intellectual property. Except to the extent permitted
+under applicable law, you may not decompile, disassemble, or reverse engineer
+the Software, or any component thereof, by any means whatsoever. You may not
+remove, alter, or obscure any product identification, copyright, or other
+intellectual property notices in the Software. All rights not expressly
+granted herein are reserved by EA.
+
+E. Your Contributions. In exchange for use of the Software, and to the extent
+that your contributions through use of the Software give rise to any copyright
+interest, you hereby grant EA an exclusive, perpetual, irrevocable, fully
+transferable and sub-licensable worldwide right and license to use your
+contributions in any way and for any purpose in connection with the Software
+and related goods and services including the rights to reproduce, copy, adapt,
+modify, perform, display, publish, broadcast, transmit, or otherwise
+communicate to the public by any means whether now known or unknown and
+distribute your contributions without any further notice or compensation to
+you of any kind for the whole duration of protection granted to intellectual
+property rights by applicable laws and international conventions. You hereby
+waive any moral rights of paternity, publication, reputation, or attribution
+with respect to EAls and other playersl use and enjoyment of such assets in
+connection with the Software and related goods and services under applicable
+law. The license grant to EA, and the above waiver of any applicable moral
+rights, survives any termination of this License.
+
+2\. Consent to Use of Data. When you play this game offline, EA and its
+affiliates may collect and store non-personally identifiable data including
+your Internet Protocol Address as well as game play and software usage
+statistics. If and when you access online features and/or services (if any),
+this data may be transmitted to EA. EA may use this information to improve our
+products and services and may share anonymous data with third parties.
+
+To facilitate Technical Protection Measures (if any), the provision of
+software updates, any dynamically served content, product support and other
+services to you, including marketing, advertising and online play (if any),
+you agree that EA and its affiliates may collect, use, store and transmit
+technical and related information that identifies your computer (including an
+Internet Protocol Address and hardware identification), operating system and
+application software and peripheral hardware. EA and its affiliates may also
+use this information in the aggregate, in a form which does not personally
+identify you, to improve our products and services and we may share anonymous
+data with our third party service providers.
+
+All data is collected, used, stored and transmitted in accordance with EAls
+Privacy Policy located at http://privacy.ea.com. To the extent that anything
+in this section conflicts with the terms of EAls Privacy Policy, the terms of
+the Privacy Policy shall control.
+
+3\. Consent to Public Display of Data. If you participate in online services,
+such as online play or the downloading and uploading of content, EA and its
+affiliates may also collect, use, store, transmit and publicly display
+statistical data regarding game play (including scores, rankings and
+achievements), or identify content that is created and shared by you with
+other players. Data that personally identifies you is collected, used, stored
+and transmitted in accordance with EAls Privacy Policy located at www.ea.com.
+
+4\. Termination. This License is effective until terminated. Your rights under
+this License will terminate immediately and automatically without any notice
+from EA if you fail to comply with any of the terms and conditions of this
+License. Promptly upon termination, you must cease all use of the Software and
+destroy all copies of the Software in your possession or control. Termination
+will not limit any of EAls other rights or remedies at law or in equity.
+Sections 4 - 13 of this License shall survive termination or expiration of
+this License for any reason.
+
+5\. Disclaimer of Warranties. TO THE FULLEST EXTENT PERMISSIBLE UNDER
+APPLICABLE LAW, THE SOFTWARE IS PROVIDED TO YOU oAS IS,o WITH ALL FAULTS,
+WITHOUT WARRANTY OF ANY KIND, WITHOUT PERFORMANCE ASSURANCES OR GUARANTEES OF
+ANY KIND, AND YOUR USE IS AT YOUR SOLE RISK. THE ENTIRE RISK OF SATISFACTORY
+QUALITY AND PERFORMANCE RESIDES WITH YOU. EA AND EAlS LICENSORS (COLLECTIVELY
+oEAo FOR PURPOSES OF THIS SECTION AND SECTION 7) DO NOT MAKE, AND HEREBY
+DISCLAIM, ANY AND ALL EXPRESS, IMPLIED OR STATUTORY WARRANTIES, INCLUDING
+IMPLIED WARRANTIES OF CONDITION, UNINTERRUPTED USE, MERCHANTABILITY,
+SATISFACTORY QUALITY, FITNESS FOR A PARTICULAR PURPOSE, NONINFRINGEMENT OF
+THIRD PARTY RIGHTS, AND WARRANTIES (IF ANY) ARISING FROM A COURSE OF DEALING,
+USAGE, OR TRADE PRACTICE. EA DOES NOT WARRANT AGAINST INTERFERENCE WITH YOUR
+ENJOYMENT OF THE SOFTWARE; THAT THE SOFTWARE WILL MEET YOUR REQUIREMENTS; THAT
+OPERATION OF THE SOFTWARE WILL BE UNINTERRUPTED OR ERROR-FREE, OR THAT THE
+SOFTWARE WILL INTEROPERATE OR BE COMPATIBLE WITH ANY OTHER SOFTWARE OR THAT
+ANY ERRORS IN THE SOFTWARE WILL BE CORRECTED. NO ORAL OR WRITTEN ADVICE
+PROVIDED BY EA OR ANY AUTHORIZED REPRESENTATIVE SHALL CREATE A WARRANTY. SOME
+JURISDICTIONS DO NOT ALLOW THE EXCLUSION OF OR LIMITATIONS ON IMPLIED
+WARRANTIES OR THE LIMITATIONS ON THE APPLICABLE STATUTORY RIGHTS OF A
+CONSUMER, SO SOME OR ALL OF THE ABOVE EXCLUSIONS AND LIMITATIONS MAY NOT APPLY
+TO YOU.
+
+6\. Limitation of Liability. TO THE FULLEST EXTENT PERMISSIBLE BY APPLICABLE
+LAW, IN NO EVENT SHALL EA, ITS SUBSIDIARIES OR ITS AFFILIATES BE LIABLE TO YOU
+FOR ANY PERSONAL INJURY, PROPERTY DAMAGE, LOST PROFITS, COST OF SUBSTITUTE
+GOODS OR SERVICES, LOSS OF DATA, LOSS OF GOODWILL, WORK STOPPAGE, COMPUTER
+FAILURE OR MALFUNCTION OR ANY OTHER FORM OF DIRECT OR INDIRECT, SPECIAL,
+INCIDENTAL, CONSEQUENTIAL OR PUNITIVE DAMAGES FROM ANY CAUSES OF ACTION
+ARISING OUT OF OR RELATED TO THIS LICENSE OR THE SOFTWARE, WHETHER ARISING IN
+TORT (INCLUDING NEGLIGENCE), CONTRACT, STRICT LIABILITY OR OTHERWISE, WHETHER
+OR NOT EA HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. SOME
+JURISDICTIONS DO NOT ALLOW A LIMITATION OF LIABILITY FOR DEATH, PERSONAL
+INJURY, FRAUDULENT MISREPRESENTATIONS OR CERTAIN INTENTIONAL OR NEGLIGENT
+ACTS, OR VIOLATION OF SPECIFIC STATUTES, OR THE LIMITATION OF INCIDENTAL OR
+CONSEQUENTIAL DAMAGES, SO SOME OR ALL OF THE ABOVE LIMITATIONS OF LIABILITY
+MAY NOT APPLY TO YOU. In no event shall EAls total liability to you for all
+damages (except as required by applicable law) exceed the amount actually paid
+by you for the Software.
+
+7\. Limitation of Liability and Disclaimer of Warranties are Material Terms of
+this License. You agree that the provisions in this License that limit
+liability are essential terms of this License. The foregoing limitations of
+liability apply even if the above stated remedy under the Limited Warranty for
+Recording Media fails in its essential purpose.
+
+8\. Severability and Survival. If any provision of this License is illegal or
+unenforceable under applicable law, the remainder of the provision shall be
+amended to achieve as closely as possible the effect of the original term and
+all other provisions of this License shall continue in full force and effect.
+
+9\. U.S. Government Restricted Rights. If you are a government end user, then
+this provision applies to you. The Software provided in connection with this
+License has been developed entirely at private expense, as defined in FAR
+section 2.101, DFARS section 252.227-7014(a)(1) and DFARS section 252.227-7015
+(or any equivalent or subsequent agency regulation thereof), and is provided
+as ocommercial items,o ocommercial computer softwareo and/or ocommercial
+computer software documentation.o Consistent with DFARS section 227.7202 and
+FAR section 12.212, and to the extent required under U.S. federal law, the
+minimum restricted rights as set forth in FAR section 52.227-19 (or any
+equivalent or subsequent agency regulation thereof), any use, modification,
+reproduction, release, performance, display, disclosure or distribution
+thereof by or for the U.S. Government shall be governed solely by this License
+and shall be prohibited except to the extent expressly permitted by this
+License.
+
+10\. Injunctive Relief. You agree that a breach of this License will cause
+irreparable injury to EA for which monetary damages would not be an adequate
+remedy and EA shall be entitled to seek equitable relief in addition to any
+remedies it may have hereunder or at law without a bond, other security or
+proof of damages.
+
+11\. Governing Law. If you reside in a Member State of the European Union: (i)
+the laws of England, excluding its conflicts-of-law rules, govern this License
+and your use of the Application; and (ii) you expressly agree that exclusive
+jurisdiction for any claim or action arising out of or relating to this
+License and/or your use of the Application shall be the Courts of England, and
+you expressly consent to the exercise of personal jurisdiction of such courts.
+If you reside elsewhere: (i) the laws of the State of California, excluding
+its conflicts-of-law rules, govern this License and/or your use of the
+Application; and (ii) you expressly agree that for claims and disputes not
+subject to section 14, below, exclusive jurisdiction for any claim or action
+arising out of or relating to this License and/or your use of the Application
+shall be the federal or state courts that govern San Mateo County, California,
+and you expressly consent to the exercise of personal jurisdiction of such
+courts. Please note that your conduct may also be subject to other local,
+state, national, and international laws. The parties agree that the UN
+Convention on Contracts for the International Sale of Goods (Vienna, 1980)
+shall not apply to this License or to any dispute or transaction arising out
+of this License.
+
+12\. Export. You agree to abide by U.S. and other applicable export control
+laws and agree not to transfer the Software to a foreign national, or national
+destination, which is prohibited by such laws, without first obtaining, and
+then complying with, any requisite government authorization. You certify that
+you are not a person with whom EA is prohibited from transacting business
+under applicable law.
+
+13\. Entire Agreement. This License constitutes the entire agreement between
+you and EA with respect to the Software and supersedes all prior or
+contemporaneous understandings regarding such subject matter. No amendment to
+or modification of this License will be binding unless made in writing and
+signed by EA. No failure to exercise, and no delay in exercising, on the part
+of either party, any right or any power hereunder shall operate as a waiver
+thereof, nor shall any single or partial exercise of any right or power
+hereunder preclude further exercise of any other right hereunder. In the event
+of a conflict between this License and any applicable purchase or other terms,
+the terms of this License shall govern.
+
+14\. Dispute Resolution By Binding Arbitration.  
+PLEASE READ THIS CAREFULLY. IT AFFECTS YOUR RIGHTS.  
+A. Most of your concerns can be resolved quickly and to your satisfaction by
+logging into the EA customer support interface with your Account at
+http://support.ea.com/. In the unlikely event that EA cannot resolve a concern
+to your satisfaction (or if EA cannot resolve a concern it has with you after
+attempting to do so informally), then you and EA agree to be bound by the
+following procedure to resolve any and all disputes between us. This provision
+applies to all consumers to the fullest extent allowable by law, but expressly
+excludes residents of Quebec, Russia and the Member States of the European
+Union. This agreement is intended to be interpreted broadly. It covers any and
+all disputes between us (oDisputeso), including without limitation:  
+(a) claims arising out of or relating to any aspect of the relationship
+between us, whether based in contract, tort, statute, fraud, misrepresentation
+or any other legal theory;  
+(b) claims that arose before this Agreement or any prior agreement (including,
+but not limited to, claims relating to advertising);  
+(c) claims that are currently the subject of purported class action litigation
+in which you are not a member of a certified class; and  
+(d) claims that may arise after the termination of this Agreement.  
+The only disputes that are not covered by this Section are the following:  
+1) a claim to enforce or protect, or concerning the validity of, any of your
+or EAls (or any of EAls licensorsl) intellectual property rights;  
+2) a claim related to, or arising from, allegations of theft, piracy, or
+unauthorized use;  
+3) In addition, nothing in this Agreement shall prevent either party from
+initiating a small claims court action.  
+By entering into this Agreement, you and EA expressly waive the right to a
+trial by jury or to participate in a class action. With respect to this
+Section 16, References to "EA," "you," and "us" include our respective
+subsidiaries, affiliates, agents, employees, predecessors in interest,
+successors, and assigns, as well as all authorized or unauthorized users or
+beneficiaries of services or Software under this or prior agreements between
+us. This EULA evidences a transaction in interstate commerce, and thus the
+Federal Arbitration Act governs the interpretation and enforcement of this
+Section. This arbitration provision shall survive termination of this EULA.  
+B. Informal Negotiations/Notice of Dispute. You and EA agree to first attempt
+to resolve any Dispute informally before initiating arbitration. Such
+negotiations commence upon receipt of written notice from one person to the
+other (oNotice of Disputeo). Notices of Dispute must: (a) include the full
+name and contact information of the complaining party; (b) describe the nature
+and basis of the claim or dispute; and (c) set forth the specific relief
+sought ("Demand"). EA will send its Notice of Dispute to your billing address
+(if you provided it to us) or to the email address you provided to us. You
+will send your Notice of Dispute to: Electronic Arts Inc., 209 Redwood Shores
+Parkway, Redwood City CA 94065, ATTENTION: Legal Department.  
+C. Binding Arbitration. If you and EA are unable to resolve a Dispute through
+informal negotiations within 30 days after receipt of the Notice of Dispute,
+either you or EA may elect to have the Dispute finally and exclusively
+resolved by binding arbitration. Any election to arbitrate by one party shall
+be final and binding on the other. YOU UNDERSTAND THAT ABSENT THIS PROVISION,
+YOU WOULD HAVE THE RIGHT TO SUE IN COURT AND HAVE A JURY TRIAL. The
+arbitration shall be commenced and conducted under the Commercial Arbitration
+Rules of the American Arbitration Association (oAAAo) and, where appropriate,
+the AAAls Supplementary Procedures for Consumer Related Disputes (oAAA
+Consumer Ruleso), both of which are available at the AAA website www.adr.org.
+Your arbitration fees and your share of arbitrator compensation shall be
+governed by the AAA Rules and, where appropriate, limited by the AAA Consumer
+Rules. If such costs are determined by the arbitrator to be excessive, or if
+you send EA a notice to the Notice of Dispute address above indicating that
+you are unable to pay the fees required to initiate an arbitration, then EA
+will promptly pay all arbitration fees and expenses. The arbitration may be
+conducted in person, through the submission of documents, by phone or online.
+The arbitrator shall make a decision in writing, and shall provide a statement
+of reasons if requested by either party. The arbitrator must follow applicable
+law, and any award may be challenged if the arbitrator fails to do so. You and
+EA may litigate in court to compel arbitration, to stay proceeding pending
+arbitration, or to confirm, modify, vacate or enter judgment on the award
+entered by the arbitrator.  
+D. Restrictions. You and EA agree that any arbitration shall be limited to the
+Dispute between EA and you individually. To the full extent permitted by law:
+(a) no arbitration shall be joined with any other arbitration proceeding; (b)
+there is no right or authority for any Dispute to be arbitrated on a class
+action-basis or to utilize class action procedures; and (c) there is no right
+or authority for any Dispute to be brought in a purported representative
+capacity on behalf of the general public or any other persons. YOU AND EA
+AGREE THAT EACH MAY BRING CLAIMS AGAINST THE OTHER ONLY IN YOUR OR ITS
+INDIVIDUAL CAPACITY, AND NOT AS A PLAINTIFF OR CLASS MEMBER IN ANY PURPORTED
+CLASS OR REPRESENTATIVE PROCEEDING. Further, unless both you and EA agree
+otherwise, the arbitrator may not consolidate more than one person's claims,
+and may not otherwise preside over any form of a representative or class
+proceeding. If this specific provision is found to be unenforceable, then the
+entirety of this dispute resolution/arbitration provision shall be null and
+void.  
+E. Location. If you are a resident of the United States, arbitration will take
+place at any reasonable location convenient for you. For residents outside the
+United States, arbitration shall be initiated in the County of San Mateo,
+State of California, United States of America, and you and EA agree to submit
+to the personal jurisdiction of that court, in order to compel arbitration, to
+stay proceeding pending arbitration, or to confirm, modify, vacate or enter
+judgment on the award entered by the arbitrator.  
+F. Recovery and Attorneysl Fees. If the arbitrator rules in your favor on the
+merits of any claim you bring against EA and issues you an award that is
+greater in monetary value than EA's last written settlement offer made before
+final written submissions are made to the arbitrator, then EA will:  
+(a) Pay you 150% of your arbitration award, up to $5,000 over and above your
+arbitration award; and  
+(b) Pay your attorney, if any, the amount of attorneys' fees, and reimburse
+any expenses (including expert witness fees and costs) that you or your
+attorney reasonably accrues for investigating, preparing, and pursuing your
+claim in arbitration ("the attorney premium").  
+The arbitrator may make rulings and resolve disputes as to the payment and
+reimbursement of fees, expenses, and the alternative payment and the attorney
+premium at any time during the proceeding and upon request from either party
+made within fourteen (14) days of the arbitrator's ruling on the merits.  
+The right to attorneys' fees and expenses discussed above supplements any
+right to attorneys' fees and expenses you may have under applicable law,
+although you may not recover duplicative awards of attorneys' fees or costs.
+EA waives any right it may have to seek an award of attorneysl fees and
+expenses in connection with any arbitration between us.  
+G. Limitation on Arbitratorls Authority. The arbitrator may award declaratory
+or injunctive relief only in favor of the individual party seeking relief and
+only to the extent necessary to provide relief warranted by that party's
+individual claim.  
+H. Changes to Agreement. Notwithstanding any provision in this Agreement to
+the contrary, we agree that if EA makes any future change to this arbitration
+provision (other than a change to the Notice of Dispute address), you may
+reject any such change by sending us written notice within thirty (30) days of
+the change to the Notice of Dispute address provided above. By rejecting any
+future change, you are agreeing that you will arbitrate any dispute between us
+in accordance with the language of this provision.  
+
+
+
+
+-------------------------------
+
+
+?## Acordo de usuário GOG.com
+
+### 1\. SOBRE ESTE ACORDO
+
+1.1 Este Acordo é um contrato entre você e a GOG sp. z o.o., ul. Jagiellonska
+74, 03-301 Varsóvia, Polônia (a partir daqui denominada **GOG** ) e se
+aplica a www.GOG.com, a sua conta de usuário GOG, o Baixador GOG Galaxy,
+quaisquer jogos ou vídeos ou outro conteúdo que você compre ou acesse através
+de nós, os fóruns da web do GOG, suporte ao cliente e técnico GOG e quaisquer
+outros serviços que oferecemos para você (chamamos tudo isso de **serviços
+GOG** para abreviar).
+
+1.2 Além disso, quando falamos sobre jogos, conteúdo de jogo, itens virtuais,
+moedas virtuais, vídeos GOG ou outro conteúdo que pode comprar ou acessar
+através de serviços GOG, nós os chamaremos de  **jogos GOG**  ou  **vídeos
+GOG**  respectivamente, e quando os mencionamos juntos, eles são  **conteúdo
+GOG** . Bem simples, né? Ah, outra coisinha  o que falamos neste Acordo
+também cobre a nossa Política de Privacidade (que você pode ler em [Política
+de Privacidade](https://support.gog.com/hc/articles/212632109-Pol%C3%ADtica-
+de-Privacidade)), então a Política de Privacidade é parte deste Acordo.
+
+1.3 A GOG trabalha com parceiros de confiança, incluindo nossa empresa
+relacionada CD PROJEKT-S.A., desenvolvedores e editores, provedores de
+pagamento, fornecedores de software de atendimento ao cliente e outros
+("Parceiros")  veja mais sobre isso a seguir neste Contrato.
+
+1.4 Se você tem mais de 18, então nós damos as boas-vindas ao GOG.com! Se você
+tiver entre 13 e 18 (ou qualquer que seja a idade adulta no seu país), antes
+que demos boas-vindas igualmente calorosa, pedimos que converse com seus pais
+ou responsáveis para revisar e aprovar este Acordo em seu nome (porque em
+alguns países, pessoas abaixo de uma certa idade não podem entrar legalmente
+em contratos como este Acordo). Legalmente, crianças abaixo dos 13 anos não
+podem ter uma conta GOG (mas seus pais/responsáveis são bem-vindos para se
+cadastrar).
+
+### 2\. USANDO GOG.COM E CONTEÚDO GOG
+
+2.1 Nós damos a você e outros usuários GOG o direito pessoal (conhecido
+legalmente como uma 'licença') para usar os serviços GOG para baixar e/ou
+transmitir (dependendo do conteúdo) e usar conteúdo GOG. Esta licença é para
+seu uso pessoal. Nós podemos parar ou suspender esta licença em certas
+situações, que serão explicadas mais adiante.
+
+2.2 Quando você compra ou instala jogos GOG, você pode ter que concordar com
+termos contratuais adicionais com a desenvolvedora/publicadora do jogo (por
+exemplo, eles podem pedir que você concorde com Termos de Serviço específicos
+do jogo). Se houver qualquer inconsistência ou disputa entre estes Termos de
+Serviço e este Acordo, então este Acordo vence.
+
+2.3 Com vídeos GOG, você também pode transmitir online conteúdo de vídeo
+adquirido, ou baixá-lo para assistir como você quiser.
+
+2.4 Utilizar certos scripts de terceiros é recomendado para um aproveitamento
+completo da funcionalidade e, embora esta utilização seja opcional, não
+podemos prometer um desempenho completa sem ele.
+
+2.5 Uma nota rápida sobre o GOG Galaxy, que é nosso serviço online (opcional)
+que não apenas permite que você compre e acesse o conteúdo da GOG, mas também
+fornece multiplayer online e outros adendos legais para o jogo, como
+conquistas, chat e acompanhamento do tempo de jogo. Você pode aprender mais
+sobre ele aqui.
+
+### 3\. CONTAS GOG
+
+3.1 Para comprar conteúdo GOG do GOG.com, você precisa criar uma conta GOG.
+Isso envolve criar uma senha (que será criptografada para que não a acessemos)
+e um nome de usuário, além de nos dar (para propósitos de identificação) seu
+endereço de e-mail. Garanta que suas credenciais de login sejam protegidas e
+sua conta seja utilizada de forma apropriada. Nas configurações da sua Conta
+GOG, você também pode definir opcionalmente o seu país de residência, data de
+nascimento e avatar. A nossa Política de Privacidade dá mais detalhes sobre as
+informações que coletamos de você e como a usamos e protegemos. Leia em
+[Política de
+Privacidade](https://support.gog.com/hc/articles/212632109-Pol%C3%ADtica-de-
+Privacidade).
+
+3.2 Você pode usar sua conta GOG para configurar um perfil público acessível
+por outros usuários. Você também pode usar sua conta GOG para se conectar com
+outros usuários GOG. Pedimos que aja com educação e lembre-se de que você é
+responsável pelos seus próprios atos.
+
+3.3 Sua conta GOG e conteúdo GOG são pessoais, não podem ser compartilhados,
+vendidos, dados ou transferidos para qualquer outra pessoa. Seu acesso e uso
+estão sujeitos às regras do GOG, essas regras estão definidas
+[aqui](https://support.gog.com/hc/sections/202834565-FAQ-O-que-%C3%A9-o-GOG-
+com-) e são atualizadas e alteradas quando necessário.
+
+### 4\. REQUISITOS DE SISTEMA
+
+4.1 Como o GOG.com te dá acesso a muitos jogos diferentes criados em momentos
+diferentes, nós não podemos conceder um único conjunto de requisitos de
+sistema para todos os serviços GOG ou conteúdo GOG.
+
+4.2 O que podemos contar é que usar qualquer jogo GOG exigirá um sistema
+operacional apropriado (verifique a página de produto GOG relevante) com todos
+os updates importantes ou pacotes de serviço instalados. Todos os jogos GOG
+devem estar instalados nativamente num computador que atenda ou exceda as
+especificações mínimas de hardware e software, exibidas na página do produto
+GOG. Jogos GOG não são testados em softwares de máquinas virtuais e, portanto,
+nós não damos suporte a jogos através destas ferramentas.
+
+4.3 Para vídeos GOG, pedimos que garanta que seu tocador de vídeo suporte os
+formatos dos vídeos, especificados na página do produto GOG.
+
+4.4 Se tiver dúvidas sobre requisitos de sistema, entre em contato conosco em
+<https://support.gog.com/hc/requests/new?category=info>. Para deixar bem
+claro, você é responsável por garantir que tenha acesso de Internet suficiente
+para baixar jogos GOG ou vídeos GOG comprados de nós, ou para transmitir
+vídeos GOG e que o seu sistema pode jogar jogos GOG e assistir vídeos GOG. e
+(iii) nós tomaremos esforços razoáveis para assentir com leis aplicáveis ao
+desempenhar nossas obrigações a você sob este Acordo.
+
+### 5\. BETAS
+
+5.1 Enquanto o GOG.com continua a se desenvolver, nós podemos oferecer a você
+acesso às versões 'beta' de software ou serviços GOG (por exemplo, novas
+versões do cliente GOG Galaxy disponibilizadas antes da sua data de
+lançamento) ou outros conteúdos GOG (mais sobre esse assunto depois). Essas
+são as regras:
+
+  * a) Nós (ou qualquer editora/parceiro aplicável) definimos condições e requisitos para o acesso beta. Fornecimento, manutenção e quem pode utilizar um beta, são questões sob nosso critério.
+  * b) Pode ser exigido que você passe por um processo de registro ou outros requisitos para acessar o beta (e isto pode incluir atender a um critério elegível).
+  * c) Betas são por tempo limitado e podem apresentar requisitos de contrato adicionais.
+  * d) O beta pode envolver limpezas, redefinições ou alterações de servidor/progresso/conteúdo temporárias ou permanentes.
+  * e) O beta pode estar sujeito a restrições de confidencialidade (que serão notificadas antecipadamente).
+  * f) Você pode ser convidado a participar de um processo de avaliação referente ao beta  isto é completamente opcional, mas sua contribuição seria muito valiosa.
+  * g) O beta é para seu uso e diversão, portanto você não deve vender, alugar ou transferi-lo de qualquer outra maneira para outra pessoa.
+  * h) O objetivo de conseguir um acesso beta é permitir a experiência de algo novo, mas esperamos que você compreenda que não é um produto finalizado. Portanto, betas serão fornecidos "como estão" sem nenhum promessa adicional ou responsabilidade de nossa parte, caso não estejam completos ou não funcionem completamente ou causem problemas. Betas podem não ter todas as características finais e podem haver alterações nestas características, inserções e remoções durante o beta. Nós podemos fornecer acesso ao conteúdo GOG na forma de beta/pré-lançamento. Por exemplo, uma editora/parceira pode decidir lançar um jogo ou parte dele em beta, ou pode se juntar ao nosso programa "Jogos em Desenvolvimento" (consulte a seção 7.5-7.7, abaixo). Tal conteúdo GOG também será governado por estas regras, exceto se a editora em questão especificar suas próprias regras (que prevalecerão sobre estas regras).
+
+### 6\. PAGANDO POR CONTEÚDO GOG E RECEBENDO REEMBOLSOS
+
+#### Pagando por conteúdo GOG
+
+6.1 Adivinha só! Após decidir que você quer um jogo GOG, vídeo GOG ou outro
+conteúdo GOG, você geralmente precisa pagar por ele antes de acessá-lo (apesar
+de também termos conteúdo grátis!) Você pode pagar de formas diferentes: (i)
+usando um cartão de débito ou crédito válido
+
+6.2 Quando você utiliza um método de pagamento para comprar conteúdo GOG, nós
+confiamos que você esteja sendo sincero em relação ao uso desse método. Você é
+responsável por quaisquer compras utilizando sua contra GOG ou método de
+pagamento e concorda com o preço, forma de pagamento e política de cobrança
+aplicáveis a eles, assim como é notificado no momento da compra. Todos os
+pagamentos não são restituíveis e intransferíveis, exceto quando expressamente
+especificado no acordo. Crianças, seus pais ou responsáveis precisam aprovar
+quaisquer compras feitas por vocês.
+
+6.3 Você sempre pode pagar por conteúdo GOG em Dólares Americanos. Entretanto,
+caso você viva em países onde sua moeda local seja aceita (consulte nosso
+[Suporte](https://support.gog.com/hc/sections/202834625-FAQ-Pagamentos-
+pre%C3%A7os-e-promo%C3%A7%C3%B5es) para mais detalhes), você poderá pagar na
+sua moeda local. Você talvez tenha que pagar uma taxa de câmbio se não pagar
+na sua moeda nacional, e alguns bancos também podem adicionar outros tipos de
+taxas de transação.
+
+6.4. Todos os preços são visíveis na página de produto no catálogo. Eles
+incluem impostos legalmente aplicáveis/VAT.
+
+#### Carteira GOG
+
+6.5. GOG oferece aos seus usuários um saldo em conta digital chamado de
+"Carteira GOG" unido a sua conta, você pode utilizá-la para fazer compras de
+conteúdo GOG. Valores podem ser adicionados de duas maneiras: (i) utilizando o
+método de pagamento escolhido; ou (ii) por nós como parte de nosso programa
+"Carteira Gratuita" (veja abaixo). A Carteira GOG está sujeita às regras
+definidas em nossa [página da Carteira
+GOG](https://support.gog.com/hc/sections/202834605-FAQ-Carteira).
+
+#### Carteira Gratuita e Códigos Bônus
+
+6.6. Em alguns casos poderemos oferecer valores em sua conta GOG, esses
+valores poderão ser utilizado em suas compras GOG (chamaremos isto de
+Carteira Gratuita). Por exemplo, como explicamos na seção 6.9, nós podemos
+oferecer valores da Carteira GOG em conexão com nossa política de Preços
+Justos em alguns situações. Também podemos oferecer códigos de bônus com tempo
+limitado que fornecem acesso gratuito ou preços reduzidos para um conteúdo GOG
+(chamaremos isso de "Códigos Bônus").
+
+6.7. Caso receba Carteira Gratuita ou Códigos Bônus quando comprar conteúdo
+GOG, mas decida devolver o conteúdo GOG, acreditamos que será justo e
+devolverá a Carteira Gratuita ou os Códigos Bônus também. Portanto, nós
+iremos: (i) remover de sua conta GOG as Carteiras Gratuitas que não foram
+utilizadas e foram recebidas devido a aquele conteúdo GOG; (ii) caso tenha
+utilizado parte da Carteira Gratuita para comprar outros conteúdos GOG,
+subtrairemos aquela quantidade utilizada de sua Carteira Gratuita de seu
+reembolso; e (iii) para Códigos Bônus, nós o eliminaremos ou o retiraremos da
+sua conta, caso tenha sido trocado por um jogo GOG.
+
+6.8 Carteira Gratuita e Códigos Bônus estão sujeitos a nossas regras para a
+Carteira GOG (consulte a seção 6.5 acima). A carteira gratuita é valida por um
+ano a não ser que seja misturada a quaisquer fundos da Carteira GOG obtidos
+com dinheiro real, neste caso o saldo total não terá uma data de validade até
+que seja reduzido à zero (neste ponto o processo será reiniciado).
+
+**Política de Preço Justo**
+
+6.9. Defendemos a simples verdade que 1 USD não é 1 EUR - estamos tentando
+aplicar conversões justas. Em um mundo perfeito, usaríamos o mesmo método de
+preços para todos os jogos que oferecemos. Entretanto, as coisas são um pouco
+mais complicadas do que isto, e alguns jogos em nosso catálogo segurem um
+esquema de preços regionais diferente. Entretando, não seríamos o GOG.com se
+não descobríssemos uma forma resolver isso para nossos usuários que acabam
+pagando um pouco mais por estes jogos. É aí que a Política de Preço Justo
+entra em ação!
+
+6.10. A Política de Preço Justo aplica-se a todos os títulos que não pudemos
+incluir em nosso esquema de preços tradicional. Se você acabar pagando mais
+por algum jogo em sua moeda local em comparação com o preço americano, iremos
+lhe reembolsar o valor de nosso próprio bolso. O valor a ser reembolsado será
+adicionado à sua Cartaira GOG na moeda em que fez a compra. Você vai receber
+estes valores em Carteira GOG que podem ser usados para comprar qualquer coisa
+no GOG.com, ou para completar a diferença de um item mais caro. Valores em
+Carteira GOG serão creditados em sua conta GOG na moeda em que comprou o
+conteúdo GOG relevante (por exemplo, se comprou um jogo em dólares americanos,
+quaisquer valores em Carteira GOG que receber dessa compra será em dólares
+americanos). Estes valores em Carteira GOG estarão sujeitos à nossa regra
+especial Carteira Gratuita sobre a sua duração (ver seção 6.7)
+
+6.11. Por favor, use este sistema de forma responsável e não abuse dele (por
+exemplo, ao usar VPNs ou outros métodos de manipulação geográfica) - isso não
+é legal.
+
+#### 7 Reembolsos e Devoluções
+
+  
+**Direitos de Reembolso Estatutários**
+
+7.1. Se você é um residente da União Européia ou outras jurisdições aplicáveis
+(excuindo os EUA), você tem o direito estatutário de desistir de uma compra de
+conteúdo GOG dentro de 14 dias da compra, sem dar um motivo. Porém, isso não
+se aplica onde você deu consentimento expresso à performance do conteúdo GOG
+(que é conteúdo digital), o que acontece imediatamente na conclusão do
+processo de compra, e concorda com a perda dos seus direitos de desistência.
+
+7.2. Nem essa nem alguma outra parte desse Acordo de Uso afeta seus direitos
+estatuários.
+
+**Nossa Garantia de Retornos Voluntários**
+
+7.3 Entendemos que às vezes uma compra não é exatamente o que você esperava, e
+queremos ser justos com os usuários GOG. Então eis nosso acordo com vocês:
+
+  * a) **Reembolso de Pré-venda** : se comprar na pré-venda e pagar por um jogo GOG, você pode cancelar a pré-venda e pedir um reembolso total desde que recebamos um pedido válido antes da data de lançamento do jogo completo no GOG.com.
+  * b) **Troca Antecipada** : você pode trocar conteúdo GOG adquirido legitimamente por um jogo ou vídeo GOG substituto de valor igual ou menor se o seu pedido for feito dentro de 30 dias da compra original, desde que o conteúdo GOG original não tenha sido baixado, utilizado ou transmitido. (Para conteúdo GOG comprado durante períodos de desconto, o preço com desconto se aplica.) Você só pode trocar conteúdo GOG específico uma vez. Você não pode trocar conteúdo GOG que recebeu como troca por outro conteúdo GOG.
+  * c) **Garantia do dinheiro de volta** : se comprar qualquer conteúdo GOG e tiver problemas técnicos significantes com ele (por exemplo, um bug em um jogo que o impeça de finalizar), nós daremos um reembolso total se todos os seguintes requisitos forem cumpridos:
+    * (i) você precisa ter problemas técnicos genuínos e significantes com o conteúdo GOG.
+    * (ii) Você precisa entrar em contato com o Atendimento ao Cliente GOG para requisitar o reembolso dentro de 30 dias da compra original (se o recebeu de uma troca autorizada pelo GOG por outro produto, então o período de 30 dias conta a partir da data da troca).
+    * (iii) O Atendimento ao Cliente GOG deve ter um período de tempo razoável para tentar resolver o problema antes de processar o reembolso para você.
+  * d) **Direito de Desistência** : nós damos a você o direito de desistência de uma compra de conteúdo GOG sem custo e por qualquer motivo dentro de 30 dias após comprar o conteúdo GOG, DESDE QUE não tenha sido baixado, transmitido, ativado ou usado de qualquer forma antes disso. Se qualquer uma dessas coisas acontecerem, o seu direito de desistência é perdido.
+
+7.4 **Venda final** : uma venda é considerada final após 30 dias a partir da
+compra ou quando tentar baixar o conteúdo GOG ou qualquer conteúdo
+adicional/bônus. Assim que qualquer uma dessas coisas acontecerem, você não
+terá nenhuma opção de devolução, troca ou reembolso a não ser que encontre
+problemas técnicos cobertos pelo parágrafo (c) acima. Itens e moedas virtuais,
+além de valores em Carteira GOG, não são cobertos por esta seção 7, e então
+não podemos oferecer reembolsos, trocas, garantia de dinheiro de volta ou
+direitos de retirada destes itens.
+
+#### Jogos em Desenvolvimento
+
+7.5 GOG está lançando jogos que ainda estão em desenvolvimento (tais jogos são
+mencionados aqui como jogos em desenvolvimento). Eles lhe dão uma chance de
+tentar jogos novos cuidadosamente selecionados mas que ainda estejam
+inacabados. Para mais informações, veja o [FA dos Jogos em
+Desenvolvimento](https://support.gog.com/hc/sections/115000157529-FAQ-Jogos-
+em-desenvolvimento).  
+  
+Esses jogos são realmente Betas! Para mais informações veja seção 6 acima.
+
+7.6 Para deixar claro, estes são jogos realmente em desenvolvimento: podem
+haver funções incompletas ou bugs, erros e outros problemas de jogabilidade.
+Estes jogos também poderão nunca ser finalizados. No fim das contas, você deve
+aceitar cada jogo como é sem nenhuma responsabilidade ou promessas adicionais
+nossas ou dos desenvolvedores. Eles são classificados como Beta neste Acordo
+de Usuário (ver seção 5 acima)
+
+7.7 Para ajudar, nós temos uma política especial de devolução/reembolso: nós
+reembolsaremos qualquer jogo em desenvolvimento que queira devolver, por
+qualquer motivo, dentro de 14 dias de sua respectiva aquisição. Alguns pontos
+adicionais: (a) Você será reembolsado com o valor da compra original no
+momento da sua compra. (b) Se presenteou o jogo para outra pessoa, você ainda
+pode obter o reembolso MAS a cópia do jogo presenteado será desativada. (c)
+Este programa de reembolso estará sujeito a uma política de uso justo:
+enquanto usá-la de forma razoável, não haverá problemas. Entretanto, se
+acreditarmos que você está agindo injustamente ou abusando do programa, nós
+nos reservamos o direito de recusar a conceder novos reembolsos. (d) Este
+reembolso substitui todos os outros direitos de reembolso que poderia ter de
+outra forma (por exemplo, nossa garantia do dinheiro de volta em 30 dias),
+excluindo quaisquer soluções legalmente exigidas. (e) Um jogo que saia do
+desenvolvimento dentro dos 14 dias da compra estará sujeito à nossa garantia
+do dinheiro de volta em 30 dias, contando a partir da data de aquisição.
+
+### 8\. ITENS VIRTUAIS E MOEDA VIRTUAL
+
+8.1 Em certos conteúdos GOG é possível comprar ou adquirir itens virtuais e/ou
+moeda virtual (os chamaremos de "Bens Virtuais" para sintetizar). Bens
+virtuais estão sujeitos a este acordo e seguem especificamente as regras
+padrão, a não ser que hajam regras específicas para aquele conteúdo GOG (que
+prevalecerão sobre estas regras).
+
+8.2 Bens Virtuais são itens digitais apenas e não tem valor em dinheiro ou
+existência no mundo real e não podem ser 'comprados', 'vendidos', nem dados,
+transferidos ou resgatados, seja ou não em troca de outros Bens Virtuais,
+dinheiro 'do mundo real', bens serviços ou itens com valor monetário. Trocar
+Bens Virtuais é proibido (a não ser que seja permitido especificamente a
+você). Seu direito de utilizar quaisquer Bens Virtuais é limitado a uma
+licença revogável limitada, não exclusiva, não designável, não-transferível,
+não sub-licenciável, para que os utilize como entretenimento pessoal e não-
+comercial no conteúdo GOG respectivo. Você não tem participação na
+propriedade, direito ou título sobre qualquer Bem Virtual, que se mantém como
+propriedade da editora. Bens Virtuais podem ser trocados, alterados ou
+revertidos caso necessário, incluindo para colocar em prática este Acordo. E,
+se necessário, limites podem ser impostos ao uso de Bens Virtuais (incluindo
+limites de transação e valor do saldo).
+
+8.3 A existência de uma oferta em particular de Bens Virtuais não é um
+compromisso de nossa parte em manter ou continuar a fazer os bens virtuais,
+nem uma garantia de que a oferta estará disponível no futuro. O escopo,
+variedade e tipo de Bens Virtuais que podem ser obtidos podem mudar e nós
+temos o direito de gerenciar, modificar o remover Bens Virtuais, caso seja
+considerado necessário para a continuação das operações da GOG.com ou conteúdo
+GOG ou por razões legítimas, neste caso não temos responsabilidade com você ou
+qualquer outro em relação ao exercício destes direitos. Nós faremos esforços
+razoáveis para notificar quaisquer mudanças como essas, e explicar a razão
+para as mesmas.
+
+### 9\. PATCHES, ATUALIZAÇÕES E ALTERAÇÕES
+
+9.1 De vez em quando, precisamos ajustar ou atualizar os serviços GOG ou o
+conteúdo GOG (por exemplo, adicionar ou remover ferramentas ou resolver bugs
+de software). Nós precisamos deste direito para manter o GOG.com funcionando
+de forma eficiente. Nossos parceiros podem usar serviços GOG para executar
+atualizações ou correções para conteúdo GOG
+
+### 10\. PROPRIEDADE DO GOG.COM E DIREITOS DE PROPRIEDADE INTELECTUAL
+
+10.1 Os serviços GOG inclusos (mas não limitados a) seus gráficos, código de
+computador, interface de usuário, aparência e uso, áudio, vídeo, texto,
+layout, bancos de dados, dados e todo o restante do conteúdo, e todos os
+direitos jurídicos e exploração sobre eles são ou de nossa propriedade ou nós
+os licenciamos de terceiros. O conteúdo GOG é de propriedade dos seus
+desenvolvedores/publicadoras e licenciado por nós. Todos os nossos direitos
+são reservados da forma que explicamos neste Acordo. Você não pode usar ou
+explorar qualquer parte dos serviços GOG ou do conteúdo GOG exceto como
+explicado neste Acordo.
+
+10.2 O GOG respeita a propriedade intelectual alheia. Leia mais em [Política
+de Privacidade](https://support.gog.com/hc/pt-
+br/sections/115000136785-Pol%C3%ADticas-GOG-com)
+
+### 11\. REGRAS PARA USO DOS SERVIÇOS GOG
+
+11.1 Por favor, siga estas regras com respeito aos serviços GOG e ao conteúdo
+GOG. Por favor leia essas regras cuidadosamente já que falhar em seguí-las
+(particularmente as regras em relação a trapaçear) será considerada uma
+violação material desse Acordo, o que pode levar à suspensão ou cancelamento
+do seu acesso aos serviços GOG. Seguem as regras:
+
+  * (a) Use os serviços GOG ou conteúdo GOG apenas para o seu entretenimento pessoal (por exemplo, não os use para ganhar dinheiro ou razões políticas).
+  * (b) Sobre o conteúdo GOG, o que você pode fazer de forma prática (o que inclui modificar, fundir, distribuir, traduzir, aplicar engenharia reversa, descompilar, desmontar, ou criar trabalhos derivados dele) depende do que o detentor dos direitos deste conteúdo GOG permite que você faça (GOG não pode conceder tais direitos), então pedimos que verifique isso diretamente com o detentor dos direitos (porém, a primeira coisa que deve fazer, é verificar se ele possui Termos de Serviço, e caso positivo, verificar o que estes termos dizem). Pedimos que você faça apenas tentativas genuínas de aprimorar o conteúdo GOG.
+  * (c) Sobre os serviços GOG (que incluem o software GOG), a não ser que tenha autorização prévia do GOG, pedimos que não modifique, fundas, distribua, traduza, aplique engenharia reversa, decoponha, desmonte ou crie trabalhos derivados deles  a não ser que tenha permissão neste Acordo ou pela lei do seu país. Nós gostaríamos de enfatizar de que você pode entrar em contato conosco para pedir permissão para realizar estas coisas, e nós analisaremos e responderemos a estes pedidos de boa-fé. De forma geral, em algum ponto no futuro nós pretendemos abrir protocolos de cliente para facilitar que os usuários trabalhem com dados/software GOG sem qualquer necessidade de engenharia reversa ou técnicas similares.
+  * (d) Não hackeie, fira, aflita, interrompa ou abuse de serviços GOG ou conteúdo GOG, usuários GOG ou equipe GOG, nem os utilize para propósito similar.
+  * (e) Não crie, utilize ou torne disponível e/ou distribua trapaças, explorações, software de automação, robôs, bots, mods, haks, aranhas, spywhare, trapaças, scripts, trainers, ferramentas de extração ou qualquer software que interaja com ou afete os serviços GOG de qualquer maneira (incluindo, sem restrições, quaisquer programas não autorizados de terceiros que interceptem, emulem ou redirecionem qualquer comunicações entre o GOG ou seus parceiros e serviços GOG e/ou qualquer programas não autorizados de terceiros que coletem informações sobre os serviços GOG).
+  * (f) Não interfira com software de rede GOG ou de terceiros ou outros softwares incluindo através de protocolos de tunelamento, injeção de código, modificação ou alteração de software GOG, uso de qualquer outro software similar em conjunto com os serviços GOG ou conteúdo GOG, através de emulação de protocolo, ou através de criação ou uso de servidores privados em relação aos serviços GOG ou o conteúdo GOG. Não acesso ou tente acessar áreas em GOG.com ou servidores GOG que não tenham sido abertas para o público.
+  * (g) Não faça ou diga nada que possa ser considerado racismo, xenofobia, machismo, difamação ou ofensivo ou ilegal de outra forma. Sejam legais uns com os outros, por favor!!
+  * (h) Não compartilhe, compre, venda, transfira, presenteie, empreste, roube ou faça má utilização de contas GOG. As chaves/códigos GOG podem apenas ser presenteadas ou transferidas ou utilizadas conforme as formas permitidas pela GOG.com. Caso tenha quaisquer perguntas ou problemas, entre em contato com nosso suporte ao cliente.
+  * (i) Nós pedimos que siga quaisquer restrições, exigências ou regras aplicáveis geograficamente ou regionalmente, de idioma ou baseadas em localização em relação à GOG.
+  * (j) Pedimos que não faça nada em conexão com a GOG que infrinja qualquer licença, marca registrada, patente, segredo comercial, privacidade, publicidade ou o direito de outros, tal como imagens, fotografias, arquivos de som, arquivos de texto, arquivos gráficos e qualquer outro material ou informação.
+
+### 12\. CONTEÚDO GERADO POR USUÁRIOS
+
+12.1 Esta seção fala sobre conteúdo (por exemplo, texto, fotos ou links) que
+você pode disponibilizar ou para a gente ou para outros usuários GOG através
+dos serviços GOG (por exemplo, através da sua imagem de perfil ou por
+mensagens para outros usuários GOG). Nós chamaremos isso de "Conteúdo Gerado
+pelo Usuário".
+
+12.2 Falando sobre nós e você, você é dono de qualquer Conteúdo Gerado pelo
+Usuário, mas você precisa nos dar alguns direitos limitados sobre ele para que
+possamos transmiti-lo através dos serviços GOG. Então pedimos que nos conceda
+uma licença não-exclusiva e irrevogável para usar, modificar, reproduzir,
+criar trabalhos derivados de, distribuir, transmitir, comunicar e
+apresentar/exibir publicamente o seu Conteúdo Gerado pelo Usuário em conjunto
+com os serviços GOG.
+
+12.3 É de responsabilidade sua assegurar que detenha todos os direitos legais
+necessários antes de usar o seu Conteúdo Gerado pelo Usuário e por verificar
+se eles são seguros para uso  nós não temos como saber, e não podemos
+verificar por você, então precisamos contar com você.
+
+12.4 Porém, nós temos o direito (mas não a obrigação) de rever e se
+apropriadamente ou legalmente necessário, remover qualquer Conteúdo Gerado por
+Usuários que seja ilícito, torto, defamatório, obsceno, invasivo da
+privacidade de outro, ameaçador, abusivo, odioso, racista ou pornográfico. Se
+você encontrar tal conteúdo postado em serviços GOG, por favor nos informe
+contatando-nos em [legal@gog.com](mailto:legal@gog.com)
+
+### 13\. OPINIÕES OU SUGESTÕES
+
+13.1 Nós damos total liberdade para que você nos envie opções e sugestões para
+aprimorar os serviços GOG, e realmente apreciamos cada uma delas. Entretanto,
+para deixar claro, nós não temos obrigação de usá-las ou aceitá-las, e nós não
+devemos nada a você (financeiramente ou de outra forma) em relação a elas.
+
+### 14\. USANDO CONTEÚDO GOG EM OBRAS DE FÃ
+
+14.1 Para trabalhos de fã (como por exemplo fan mods, machinima, paródias,
+homenagens, vídeos de 'Let's Play' ou outros vídeos ou artes), você deve
+consultar com o dono do conteúdo (como por exemplo a desenvolvedora ou
+publicadora) se eles concordam com isso, e também receber permissão deles. O
+motivo é simples  o conteúdo GOG é de propriedade do seu respectivo dono, não
+do GOG.
+
+### 15\. COLETA DE INFORMAÇÕES E SERVIÇOS EXTERNOS
+
+15.1 É possível que você receba links para websites ou conteúdo de terceiros
+através dos serviços GOG. O uso deles é por sua conta e risco, não podemos
+prometer que funcionem, como serão ou se são gratuitos. (ii) se você usou
+algum deste Crédito da Loja para comprar outro conteúdo GOG, então nós
+descontaremos a quantia de Crédito da Loja usada do seu reembolso.
+
+15.2 Você também pode usar a sua conta GOG para acessar facilmente alguns
+serviços de parceiros externos e aprovados pelo GOG, como os jogos e sites de
+The Witcher da nossa empresa relacionada CD PROJEKT. Eles terão seus próprios
+termos e condições que você precisará concordar e seguir. Para deixar bem
+claro: o uso destes serviços é opcional para todos os nossos usuários. O poder
+é de vocês!
+
+15.3 Uma palavrinha sobre o GOG Connect (sobre o qual você pode ler mais
+[aqui](https://www.gog.com/connect)), Este serviço (adicional) é fornecido
+sujeito aos [termos de Uso de API web da
+Valve](https://steamcommunity.com/dev/apiterms), e assim o acesso a este
+serviço e como ele funciona pode mudar para refletir mudanças feitas nestes
+Termos de Uso. Por favor, veja a sessão adequada em nossa Política de
+Privacidade, que explica como usamos Dados Steam e que contém informações
+importantes sobre ela. Também veja nosso FAQ sobre o GOG Connect e como usá-
+lo.
+
+### 16\. GARANTIAS E LIMITAÇÃO DE RESPONSABILIDADE SOBRE OS SERVIÇOS GOG
+
+16.1 Nós garantimos que: (i) detemos o direito de inserir este Acordo e
+conceder a você a licença para uso dos serviços GOG na seção 2.1; e (ii) nós
+tomaremos cuidado razoável com os serviços GOG e o seu uso deles; e (iii) nós
+usaremos métodos razoáveis para agir de acordo com leis aplicáveis em
+completar nossas obrioções com você sob esse Acordo.
+
+16.2 Suas representações e garantias. Você representa e garante que tem total
+poder e habilidade para entrar nesse Acordo e seguirá seus termos por
+completo. Você também representa e garante que qualquer Conteúdo Gerado por
+Usuário, que você transmitir via serviços GOG, não infringirá a propriedade
+intelectual de terceiros. Além disso você representa e garante que você não
+usará ou contribuirá Conteúdo Gerado por Usuário que seja ilícito, torto,
+digamador, obsceno, invasivo da privacidade alheia, ameaçador, abusivo,
+odioso, racista ou pornográfico.
+
+16.3 Nós nos esforçamos para fazer o conteúdo GOG funcionar nos seus sistemas,
+mas temos um tempo limitado para realizar testes, e nem sempre acertamos tudo.
+Portanto, não podemos aceitar nenhum tipo de responsabilidade pelo conteúdo
+GOG. Também não somos responsáveis por qualquer coisa que aconteça ao GOG.com
+ou aos serviços GOG que estejam fora do nosso controle. Entretanto, não se
+esqueça de que você pode ter direito a devoluções e reembolsos por conteúdo
+GOG caso existam problemas técnicos - ver seção 7.3(c).
+
+### 17\. TERMINAÇÃO
+
+17.1 Do seu direito de término do Acordo: você pode termninar esse Acordo a
+qualquer momento e sem dar qualquer motivo cessando completamente o uso dos
+serviços GOG. Se você quer que sua conta seja deletada por favor contate nossa
+equipe de suporte: [Política de Privacidade](https://support.gog.com/hc/pt-
+br/categories/201526109-Pol%C3%ADticas-e-Informa%C3%A7%C3%B5es). O término não
+afetará direitous ou obrigações existentes de nenhuma das partes.
+
+17.2 Do nosso direito de término do Acordo: Se você violar materialmente esse
+Acordo, reservamos o direito de suspender ou cancelar seu acesso aos serviços
+GOG e conteúdo GOG. Por violação material do Acordo, entende-se uma violação
+séria que pode causar mal significativo ao GOG, usuários GOG, e também, em
+violação particular das provisões na seção 11 acima. Se suspendermos ou
+cancelarmos seu acesso aos serviços GOG ou conteúdo GOG tomaremos passos
+razoáveis para entrar em contato com você e explicar o por quê de termos feito
+isso e o que você pode fazer como resultado (se houver algo).
+
+17.3. É muito improvável, mas se precisarmos cessar a oferta de serviços GOG e
+conteúdo GOG permanentemente (não devido a qualquer violação por sua parte),
+tentaremos dar no mínimo sessenta (60) dias de aviso prévio postando uma nota
+em [www.gog.com](https://www.gog.com/) e enviando um email a cada usuário
+registrado  durante esse tempo você deve poder baixar qualquer conteúdo GOG
+comprado.
+
+### 18\. CASOS DE FORÇA MAIOR
+
+18.1 Nem você nem nós podemos ser responsabilizados por quaisquer falhas em
+cumprir qualquer obrigação deste Acordo ou o fornecimento de acesso aos
+serviços GOG e conteúdo GOG se tais falhas forem causa do acontecimento de
+qualquer evento imprevisto além da sua ou do nosso controle razoável,
+incluindo, sem limitação, quedas de Internet, quedas de comunicações,
+incêndio, enchente, guerra ou ato divino.
+
+### 19\. LEGISLAÇÃO
+
+Para usuários residentes da União Europeia e do restante do mundo (mas não dos
+EUA):
+
+19.1 Você e nós concordamos que o seu uso dos serviços GOG e do conteúdo GOG e
+este Acordo serão governados por e interpretados de acordo com as leis da
+República da Polônia e que qualquer disputa em relação a este Acordo será
+ouvida exclusivamente pelos tribunais da República da Polônia. Em qualquer
+reivindicação legal sob este Acordo, o lado vencedor terá direito às taxas e
+gastos legais.
+
+19.2 A escolha acima de lei e jurisdição governantes está sujeita a qualquer
+princípio mandatório de proteção ao consumidor aplicável ou outra lei em sua
+jurisdição de residência que de outra forma não estaria disponível.
+
+#### Apenas para usuários nos EUA:
+
+19.3 Você e nós concordamos que o seu uso dos serviços GOG e do conteúdo GOG e
+este Acordo serão tratados como acordados em Los Angeles, Califórnia e será
+governado por e interpretado de acordo com as leis do Estado da Califórnia,
+EUA (e, se aplicável, a lei Federal dos EUA). Qualquer reivindicação jurídica
+por você contra o GOG.com será feita exclusivamente em qualquer estado ou
+tribunal federal localizado em Los Angeles, Califórnia, e abordará a
+jurisdição em relação à disputa entre você e nós e, portanto, nós e você
+consentimos na jurisdição exclusiva destes tribunais. Em qualquer
+reivindicação legal sob este Acordo, o lado vencedor terá direito às taxas e
+gastos legais.
+
+### 20\. ATENDIMENTO AO CLIENTE E RESOLUÇÃO DE DISPUTAS
+
+20.1 Se você tem preocupações, reivindicações ou problemas conosco, esperamos
+poder resolvê-los rápida e amigavelmente em <https://support.gog.com/hc/pt-
+br>. Faremos esforços razoáveis e de boa fé para resolver qualquer disputa
+entre nós de maneira informal. Esperamos responder qualquer reivindicação
+dentro de 14 dias.
+
+20.2 Se o problema não for resulvido durante esse tempo, os próximos passos
+dependem de onde você mora. Se você mora na UE você pode submeter suas
+reivindicações legais à plataforma de resolução de disputas operada e
+fornecida pela Comissão Européia que pode ser acessada via
+<http://ec.europa.eu/consumers/odr/> para alcançar uma solução fora da corte
+ou iniciar um processo legal.
+
+20.3 Se você mora nos EUA ou no resto do mundo (mas não na UE) por favor
+contate-nos em legal@gog.com
+
+### 21\. OUTRAS QUESTÕES LEGAIS
+
+21.1 Se qualquer parte deste Acordo for determinada como não legalmente
+aplicável, isso não afetará nenhuma outra parte dele.
+
+21.2 Este Acordo e a Política de Privacidade GOG constituem todo o acordo
+entre você e nós, e suplantar quaisquer acordos anteriores orais ou escritos.
+Se discordar disto, por favor nos contate assim que possível após usar os
+serviços GOG através do endereço [legal@gog.com](mailto:legal@gog.com) já que,
+caso contrário, isto se tornará juridicamente vinculativo com você após um
+período de tempo razoável (geralmente 30 dias).
+
+21.3 Este Acordo governa nosso relacionamento com você (e vice-versa). Ele não
+cria nenhum direito para mais ninguém.
+
+21.4 Tenha em mente de que estamos sujeitos a diversas leis, e podemos ser
+exigidos a assentir com agências de aplicação da lei ou outros requerimentos
+legais.
+
+21.5 Caso haja uma reorganização, venda ou fusão do GOG.com, talvez tenhamos
+que trabalhar com terceiros relevantes para transferir ou fundir a sua conta
+GOG.
+
+21.6 Você e nós concordarmos que a Convenção de Contratos para Venda
+Internacional de Bens da UN não se aplica a este acordo.
+
+21.7 Podemos ceder, subcontratar ou transferir este Contrato a terceiros ou a
+outros membros do nosso grupo, se necessário, para o apoio de GOG, como parte
+de qualquer reorganização ou incorporação ou por outras razões de negócios
+Você será notificado, caso isso aconteça.
+
+### 22\. ALTERAÇÕES NESTE ACORDO
+
+22.1 Nós podemos alterar esta Política de Privacidade se for necessário, por
+exemplo por razões legais ou para refletir alterações nos serviços GOG ou
+conteúdo GOG Caso o façamos, nós deixaremos o Acordo alterado online em
+<https://support.gog.com/hc/articles/212632089-Acordo-de-Usu%C3%A1rio>
+
+22.2 Quaisquer mudanças à a Política de Privacidade, entrará em efeito 30 dias
+após a colocarmos online. Durante este período, você pode entrar em contato
+conosco em [legal@gog.com](mailto:legal@gog.com) caso tenha dúvidas
+específicas sobre as alterações.
+
+22.3 Se não concordar com estas alterações (independente se nos mandar e-mail
+ou não), então infelizmente pedimos que cesse suas atividades de uso dos
+serviços GOG e conteúdo GOG. Sentimos muito em ter que dizer isso, mas
+esperamos que você aprecie que, para o GOG.com funcionar apropriadamente, nós
+temos que fazer todos seus usuários seguirem as mesmas regras, ao invés de
+pessoas diferentes seguindo regras diferentes. É por isso que encorajamos que,
+caso tenha dúvidas ou preocupações, entre em contato conosco.
+
+22.4 Para que saiba, nunca faremos um monte de mudanças neste Termo sem lhe
+avisar o que elas são, e depois forçar você a concordar com mudanças que não
+entende antes de usar o GOG.com!
+
+### 23\. NOSSOS DADOS DE CONTATO
+
+23.1 Se você tem uma reclamação relacionada à sua compra ou simplesmente quer
+nos contatar, seguem nossos detalhes de contato:
+
+  
+Nome: GOG sp. z o.o.
+
+  
+Escritório Registrado: Ul. Jagiellonska 74, 03-301 Varsóvia, Polônia
+
+  
+Registrado na Corte do Distrido de Varsóvia, décima terceira Divisão comercial
+do Registro Nacional da Corte.
+
+  
+Número de Registro 0000029514;
+
+  
+Número de impostos VAT ID (NIP) PL 113-21-77-807;
+
+  
+Capital acionário: PLN 135.750,00 PLN
+
+  
+E-mail: https://support.gog.com/hc/requests/new?category=info ou
+support@gog.com
+
+
+
+
+-------------------------------
+
+
+========================================
+======= Inno Setup License Terms =======
+========================================
+
+Except where otherwise noted, all of the documentation and software included
+in the Inno Setup package is copyrighted by Jordan Russell.
+
+Copyright (C) 1997-2008 Jordan Russell. All rights reserved.
+
+This software is provided "as-is," without any express or implied warranty.
+In no event shall the author be held liable for any damages arising from the
+use of this software.
+
+Permission is granted to anyone to use this software for any purpose,
+including commercial applications, and to alter and redistribute it,
+provided that the following conditions are met:
+
+1. All redistributions of source code files must retain all copyright
+   notices that are currently in place, and this list of conditions without
+   modification.
+
+2. All redistributions in binary form must retain all occurrences of the
+   above copyright notice and web site addresses that are currently in
+   place (for example, in the About boxes).
+
+3. The origin of this software must not be misrepresented; you must not
+   claim that you wrote the original software. If you use this software to
+   distribute a product, an acknowledgment in the product documentation
+   would be appreciated but is not required.
+
+4. Modified versions in source or binary form must be plainly marked as
+   such, and must not be misrepresented as being the original software.
+
+
+Jordan Russell
+jr-2008 AT jrsoftware.org
+http://www.jrsoftware.org/
+
