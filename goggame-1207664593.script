@@ -1,0 +1,367 @@
+{
+    "actions": [
+        {
+            "install": {
+                "action": "savePath",
+                "arguments": {
+                    "savePath": "{userdocs}/SimCity 4",
+                    "type": "folder"
+                }
+            },
+            "languages": [
+                "*"
+            ],
+            "name": "saveFolders"
+        },
+        {
+            "install": {
+                "action": "supportData",
+                "arguments": {
+                    "target": "{userdocs}/SimCity 4",
+                    "type": "folder"
+                }
+            },
+            "languages": [
+                "*"
+            ],
+            "name": "createFolder1"
+        },
+        {
+            "install": {
+                "action": "supportData",
+                "arguments": {
+                    "conditions": [
+                        "onlyOnce"
+                    ],
+                    "source": "{supportDir}/userdocs/SimCity 4",
+                    "target": "{userdocs}/SimCity 4",
+                    "type": "folder"
+                }
+            },
+            "languages": [
+                "*"
+            ],
+            "name": "filecopy1"
+        },
+        {
+            "install": {
+                "action": "setRegistry",
+                "arguments": {
+                    "root": "HKEY_LOCAL_MACHINE",
+                    "saveGameData": true,
+                    "subkey": "Software\\Maxis\\SimCity 4",
+                    "valueData": ".\\\\",
+                    "valueName": "Installed From",
+                    "valueType": "string"
+                }
+            },
+            "languages": [
+                "*"
+            ],
+            "name": "registryKey1"
+        },
+        {
+            "install": {
+                "action": "setRegistry",
+                "arguments": {
+                    "root": "HKEY_LOCAL_MACHINE",
+                    "saveGameData": true,
+                    "subkey": "Software\\Maxis\\SimCity 4",
+                    "valueData": "$0012434f",
+                    "valueName": "CacheSize",
+                    "valueType": "dword"
+                }
+            },
+            "languages": [
+                "*"
+            ],
+            "name": "registryKey2"
+        },
+        {
+            "install": {
+                "action": "setRegistry",
+                "arguments": {
+                    "root": "HKEY_LOCAL_MACHINE",
+                    "saveGameData": true,
+                    "subkey": "Software\\Maxis\\SimCity 4",
+                    "valueData": "$00000000",
+                    "valueName": "SwapSize",
+                    "valueType": "dword"
+                }
+            },
+            "languages": [
+                "*"
+            ],
+            "name": "registryKey3"
+        },
+        {
+            "install": {
+                "action": "setRegistry",
+                "arguments": {
+                    "root": "HKEY_LOCAL_MACHINE",
+                    "saveGameData": true,
+                    "subkey": "Software\\Maxis\\SimCity 4",
+                    "valueData": "SimCity 4 Deluxe",
+                    "valueName": "DisplayName",
+                    "valueType": "string"
+                }
+            },
+            "languages": [
+                "*"
+            ],
+            "name": "registryKey4"
+        },
+        {
+            "install": {
+                "action": "setRegistry",
+                "arguments": {
+                    "root": "HKEY_LOCAL_MACHINE",
+                    "saveGameData": true,
+                    "subkey": "Software\\Maxis\\SimCity 4",
+                    "valueData": "English US",
+                    "valueName": "Language",
+                    "valueType": "string"
+                }
+            },
+            "languages": [
+                "*"
+            ],
+            "name": "registryKey5"
+        },
+        {
+            "install": {
+                "action": "setRegistry",
+                "arguments": {
+                    "root": "HKEY_LOCAL_MACHINE",
+                    "saveGameData": true,
+                    "subkey": "Software\\Maxis\\SimCity 4",
+                    "valueData": "en-us",
+                    "valueName": "Locale",
+                    "valueType": "string"
+                }
+            },
+            "languages": [
+                "*"
+            ],
+            "name": "registryKey6"
+        },
+        {
+            "install": {
+                "action": "setRegistry",
+                "arguments": {
+                    "deleteSubkeys": true,
+                    "root": "HKEY_LOCAL_MACHINE",
+                    "subkey": "Software\\Maxis\\SimCity 4",
+                    "valueData": "SOFTWARE\\Electronic Arts\\Maxis\\SimCity 4 Deluxe\\ergc",
+                    "valueName": "Registration",
+                    "valueType": "string"
+                }
+            },
+            "languages": [
+                "*"
+            ],
+            "name": "registryKey7"
+        },
+        {
+            "install": {
+                "action": "setRegistry",
+                "arguments": {
+                    "root": "HKEY_LOCAL_MACHINE",
+                    "saveGameData": true,
+                    "subkey": "Software\\Maxis\\SimCity 4",
+                    "valueData": ".\\\\",
+                    "valueName": "CD Drive",
+                    "valueType": "string"
+                }
+            },
+            "languages": [
+                "*"
+            ],
+            "name": "registryKey8"
+        },
+        {
+            "install": {
+                "action": "setRegistry",
+                "arguments": {
+                    "root": "HKEY_LOCAL_MACHINE",
+                    "saveGameData": true,
+                    "subkey": "Software\\Maxis\\SimCity 4",
+                    "valueData": "{app}",
+                    "valueName": "Install Dir",
+                    "valueType": "string"
+                }
+            },
+            "languages": [
+                "*"
+            ],
+            "name": "registryKey9"
+        },
+        {
+            "install": {
+                "action": "setRegistry",
+                "arguments": {
+                    "root": "HKEY_LOCAL_MACHINE",
+                    "saveGameData": true,
+                    "subkey": "Software\\Maxis\\SimCity 4",
+                    "valueData": "{{A7A34FC9-DF24-4A36-00AD-D4EFE94CC116}",
+                    "valueName": "Product GUID",
+                    "valueType": "string"
+                }
+            },
+            "languages": [
+                "*"
+            ],
+            "name": "registryKey10"
+        },
+        {
+            "install": {
+                "action": "setRegistry",
+                "arguments": {
+                    "root": "HKEY_LOCAL_MACHINE",
+                    "saveGameData": true,
+                    "subkey": "Software\\Maxis\\SimCity 4",
+                    "valueData": "NA",
+                    "valueName": "Region",
+                    "valueType": "string"
+                }
+            },
+            "languages": [
+                "*"
+            ],
+            "name": "registryKey11"
+        },
+        {
+            "install": {
+                "action": "setRegistry",
+                "arguments": {
+                    "root": "HKEY_LOCAL_MACHINE",
+                    "saveGameData": true,
+                    "subkey": "Software\\Maxis\\SimCity 4",
+                    "valueData": "{group}",
+                    "valueName": "Folder",
+                    "valueType": "string"
+                }
+            },
+            "languages": [
+                "*"
+            ],
+            "name": "registryKey12"
+        },
+        {
+            "install": {
+                "action": "setRegistry",
+                "arguments": {
+                    "root": "HKEY_LOCAL_MACHINE",
+                    "saveGameData": true,
+                    "subkey": "Software\\Maxis\\SimCity 4",
+                    "valueData": "http://simcity.ea.com/update/",
+                    "valueName": "Patch URL",
+                    "valueType": "string"
+                }
+            },
+            "languages": [
+                "*"
+            ],
+            "name": "registryKey13"
+        },
+        {
+            "install": {
+                "action": "setRegistry",
+                "arguments": {
+                    "deleteSubkeys": true,
+                    "root": "HKEY_LOCAL_MACHINE",
+                    "subkey": "Software\\Maxis\\SimCity 4",
+                    "valueData": "$00000001",
+                    "valueName": "IsDeluxe",
+                    "valueType": "dword"
+                }
+            },
+            "languages": [
+                "*"
+            ],
+            "name": "registryKey14"
+        },
+        {
+            "install": {
+                "action": "setRegistry",
+                "arguments": {
+                    "root": "HKEY_LOCAL_MACHINE",
+                    "saveGameData": true,
+                    "subkey": "Software\\Maxis\\SimCity 4\\1.0",
+                    "valueData": "$00000001",
+                    "valueName": "Language",
+                    "valueType": "dword"
+                }
+            },
+            "languages": [
+                "*"
+            ],
+            "name": "registryKey15"
+        },
+        {
+            "install": {
+                "action": "setRegistry",
+                "arguments": {
+                    "root": "HKEY_LOCAL_MACHINE",
+                    "saveGameData": true,
+                    "subkey": "Software\\Maxis\\SimCity 4\\1.0",
+                    "valueData": "SimCity 4 Deluxe",
+                    "valueName": "DisplayName",
+                    "valueType": "string"
+                }
+            },
+            "languages": [
+                "*"
+            ],
+            "name": "registryKey16"
+        },
+        {
+            "install": {
+                "action": "setRegistry",
+                "arguments": {
+                    "root": "HKEY_LOCAL_MACHINE",
+                    "saveGameData": true,
+                    "subkey": "Software\\Maxis\\SimCity 4\\1.0",
+                    "valueData": "English US",
+                    "valueName": "LanguageName",
+                    "valueType": "string"
+                }
+            },
+            "languages": [
+                "*"
+            ],
+            "name": "registryKey17"
+        },
+        {
+            "install": {
+                "action": "setRegistry",
+                "arguments": {
+                    "root": "HKEY_LOCAL_MACHINE",
+                    "saveGameData": true,
+                    "subkey": "Software\\Maxis\\SimCity 4\\EP1",
+                    "valueData": "5Z?4HSUIYKHTPFPN7Q30",
+                    "valueType": "string"
+                }
+            },
+            "languages": [
+                "*"
+            ],
+            "name": "registryKey18"
+        },
+        {
+            "install": {
+                "action": "Execute",
+                "arguments": {
+                    "executable": "{app}/sc4_inifix.exe",
+                    "runAsAdmin": true,
+                    "workingDir": "{app}"
+                }
+            },
+            "languages": [
+                "*"
+            ],
+            "name": "ini_fix"
+        }
+    ],
+    "productId": "1207664593"
+}
