@@ -1,0 +1,67 @@
+{
+    "buildId": "51802744985586183",
+    "clientId": "49964622943225910",
+    "gameId": "1207664593",
+    "language": "English",
+    "languages": [
+        "en-US"
+    ],
+    "name": "SimCity 4 Deluxe Edition",
+    "playTasks": [
+        {
+            "arguments": "-CPUCount:1 -f",
+            "category": "game",
+            "compatibilityFlags": "WINXPSP3",
+            "isPrimary": true,
+            "languages": [
+                "*"
+            ],
+            "name": "SimCity 4 Deluxe Edition",
+            "path": "Apps/SimCity 4.exe",
+            "type": "FileTask",
+            "workingDir": "Apps"
+        },
+        {
+            "category": "tool",
+            "compatibilityFlags": "RUNASADMIN",
+            "languages": [
+                "*"
+            ],
+            "name": "Language Setup",
+            "path": "language_setup.exe",
+            "type": "FileTask"
+        },
+        {
+            "category": "document",
+            "languages": [
+                "*"
+            ],
+            "name": "Manual",
+            "path": "Manual.pdf",
+            "type": "FileTask"
+        },
+        {
+            "category": "document",
+            "languages": [
+                "*"
+            ],
+            "link": "http://www.gog.com/support/simcity_4_deluxe_edition",
+            "name": "Support",
+            "type": "URLTask"
+        },
+        {
+            "arguments": "-CPUCount:1 -w",
+            "category": "game",
+            "compatibilityFlags": "WINXPSP3",
+            "languages": [
+                "*"
+            ],
+            "name": "SimCity 4 (Windowed Mode)",
+            "path": "Apps//SimCity 4.exe",
+            "type": "FileTask",
+            "workingDir": "Apps"
+        }
+    ],
+    "rootGameId": "1207664593",
+    "version": 1
+}
