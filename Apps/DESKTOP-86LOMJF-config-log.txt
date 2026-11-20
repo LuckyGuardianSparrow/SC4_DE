@@ -1,0 +1,187 @@
+Log generated on 10/28/2026, 22:50
+
+Flags
+-----
+hardwareDriver = true
+DXT = true
+fullscreen = true
+MMX = true
+FPU = true
+backingStore = true
+forcedFSAA = false
+
+Strings
+-------
+userName = Acer
+appName = SimCity 4
+version = 1.1.641.0
+osVersion = Windows NT 5.1
+computerName = DESKTOP-86LOMJF
+CPU = GenuineIntel
+sglDriverName = DirectX
+sglDriverVersion = 2.0
+driverName = igdumdim32.dll
+driverVersion = 0.0.0.0, GUID: D7B78E66-1A56-11CF-9573-9331ADC2CD35
+cardName = Intel(R) HD Graphics 620
+cardVersion = Vendor: 8086, Device: 5916, Board: 11931025, Chipset: 0002
+cardIdentity = Intel(R) HD Graphics 620
+soundDriverName = 
+soundCardName = Driver de som primário
+buildType = Release
+
+Numbers
+-------
+cpuSpeed = 2904
+memory = 1024
+freeMemory = 1024
+screenWidth = 800
+screenHeight = 600
+screenBPP = 16
+videoMemory = 128
+textureMemory = 128
+textureStages = 4
+bogoFPS = 0
+bogoMPPS = 0
+
+Rules
+-----
+applying Sound
+applying high sound detail
+applying City Detail and Day/Night Settings
+applying City Detail and Day/Night Settings>
+applying high computer power
+  option 9 = 3
+  option 13 = 1
+  option 15 = 3
+applying Texture Quality and Building Variety Settings
+applying Texture Quality and Building Variety Settings>
+applying high memory
+  option 3 = 3
+  option 14 = 3
+applying Variable Speed Automata
+applying default
+  option 10 = 1
+applying Standard hardware
+  option 0 = 1
+  option 1 = 1
+  option 2 = 1
+  option 4 = 0
+  option 5 = 1
+  option 8 = 1
+  option 7 = 1
+  option 6 = 1
+  option 11 = 0
+  option 12 = 0
+applying Standard hardware>
+  option 1 = 2
+applying Standard hardware>>
+  option 0 = 2
+applying Standard hardware>>>
+  option 2 = 2
+applying Standard hardware>>>>
+  option 4 = 1
+applying Standard hardware>>>>>
+  option 11 = 1
+applying Two stages
+applying Lotsa vidmem
+applying Poor color cursor
+  option 7 = 0
+applying Not Slow GeForce
+
+Options
+-------
+Visual Effects       current:   3 recommended:   2
+Cars/Sims            current:   3 recommended:   2
+Shadows              current:   3 recommended:   2
+Atmospheric effects  current:   1 recommended:   1
+Water effects        current:   1 recommended:   1
+Software/Hardware    current:   1 recommended:   1
+Cursor               current:   1 recommended:   0
+VariableSpeedAutomata current:   1 recommended:   1
+Translucent UI       current:   1 recommended:   1
+Graphic Detail       current:   3 recommended:   3
+Building Load Speed  current:   3 recommended:   3
+Texture Quality      current:   3 recommended:   3
+
+Properties
+-------
+forcesoftwaredriver = false
+renderdynamicview = true
+renderstaticview = true
+renderwatereffects = true
+rendercloudsandfog = true
+forcepointsampling = false
+forcebilinear = false
+forcenoalphablend = false
+forcenoalphatest = false
+rendershadows = true
+renderdecals = true
+usesecondstage = true
+forcedebugtexture = false
+renderparticleeffects = true
+renderflorashadows = true
+renderterrain = true
+showupdateregions = false
+usecursoreffects = true
+drawlottextures = true
+drawlotfoundations = true
+drawlotwalls = true
+forcetexturerepeat = false
+usescreenshake = true
+renderui = true
+useupdaterectclipping = true
+usevertexbuffers = true
+showboundingboxes = false
+useoverlayculling = true
+rendersnapshot = false
+noaddsigned = false
+nopartialbackingstorecopies = false
+usescreenflash = true
+renderautomata = true
+preferopaque = false
+displayalertborders = true
+drawlotopaquetextures = true
+useviewcleanup = false
+doautozoomandrotationchanges = true
+
+viewoffsety = 0
+viewoffsetx = 0
+texturebits = 32
+lodoffset = 0
+shadowdebug = 0
+maxparticlestarget = 10000
+particlelodoffset = 0
+effectprioritylevel = 5
+backingstoremaxzoomall = 5
+backingstoremaxzoombuildingsprops = 5
+backingstoremaxzoomterrain = 5
+backingstoremaxzoomflora = 5
+shadowquality = 2
+minvehiclezoom = 3
+minpedzoom = 4
+cursortype = 1
+depthoffset = 2
+debugtexture = 0
+dirtyrectmergeframes = 4
+sounddetail = 2
+buildingvariety = 2
+buildingloaderspeed = 1
+modellodoffset = 0
+stringtexturecachesize = 1024
+
+particleeffectslod = 5
+splattexturescale = 50
+texbindmaxfree = 8
+particledensity = 1
+particledamping = 0
+particlescale = 1
+lightingupdatedelta = 0,0001
+shadowmodelthreshold = 12
+demolishmodelthreshold = 12
+rendermodelthreshold = 6
+rendermodelthresholdscroll = 40
+particlesizethreshold = 300
+maxvehiclepct = 1
+maxpedpct = 1
+opaqueuialphavalue = 0,55
+
